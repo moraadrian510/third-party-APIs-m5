@@ -21,14 +21,6 @@
     // attribute of each time-block be used to do this?
     //
     // DONE: Add code to display the current date in the header of the page field 
-dayjs('').format()
 
-///// body code
-    var saveBtn = document.querySelector('.saveBtn');
-
-
-    var saveToStorage = localStorage.getItem('saveToStorage');
-
-
-// save button event listener
-   
+var today = dayjs();
+ $('#currentDay').text(today.format('MMM D, YYYY hh:mm:ss'));
