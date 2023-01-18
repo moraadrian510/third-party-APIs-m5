@@ -22,7 +22,7 @@
     //
     // DONE: Add code to display the current date in the header of the page field
 
-// 
+// sets and refreshes time in header
 setInterval(setTime, 1000);
 
 function setTime() {
