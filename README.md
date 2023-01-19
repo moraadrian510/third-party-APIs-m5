@@ -32,15 +32,15 @@
 
 ## Contact
 
-For anby questions concerning the project, feel free to submit an *issue* or contact me through GitHub.
+For any questions concerning the project, feel free to submit an *issue* or contact me through GitHub.
 
 [Github Link](https://github.com/moraadrian510)
 
 ## Acknowledgements
 
-1. AskBCS Learning Assistant 
-2. YouTube
-3. WebMd
+1. AskBCS Learning Assistant
+2. [YouTube](https://youtube.com/watch?v)
+3. [MDN-JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
 
