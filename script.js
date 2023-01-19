@@ -9,8 +9,7 @@ function handleSave() {
     localStorage.setItem(hour, plan);
 }
 
-    // code applys the past, present, or future class to each time
-    // block by comparing the id to the current hour.
+    // code applys the past, present, or future class to each time block by comparing the id to the current hour.
 function applyColor() {
     let currentTime =  dayjs().hour();
     console.log('current time: ' + currentTime);
@@ -33,8 +32,7 @@ function applyColor() {
 }
 
 applyColor();
-    // code to get any user input that was saved in localStorage and set
-    // the values of the corresponding textarea elements.
+    // code to get any user input that was saved in localStorage and set the values of the corresponding textarea elements.
     $('#hour-9 .description').val(localStorage.getItem('hour-9'));
     $('#hour-10 .description').val(localStorage.getItem('hour-10'));
     $('#hour-11 .description').val(localStorage.getItem('hour-11'));
