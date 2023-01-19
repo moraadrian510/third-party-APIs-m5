@@ -59,10 +59,9 @@ applyColor();
     $('#hour-15 .description').val(localStorage.getItem('hour-15'));
     $('#hour-16 .description').val(localStorage.getItem('hour-16'));
     $('#hour-17 .description').val(localStorage.getItem('hour-17'));
-    // DONE: Add code to display the current date in the header of the page field
+    
 
-
-// sets and refreshes time in header
+// sets and displays in header field
 setInterval(setTime, 1000);
 
 function setTime() {
