@@ -12,7 +12,7 @@
 ![](05-third-party-apis-homework-demo.gif)
 
 
-[Check It Out For Yourself!]()
+[Check It Out For Yourself!](https://moraadrian510.github.io/third-party-APIs-m5/)
 
  * This project includes time slots for keeping track of to-do tasks *
 
