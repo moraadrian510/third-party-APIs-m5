@@ -1,4 +1,4 @@
-# Name of Project
+# Work Day Scheduler
 
 ## Table of Contents
 
