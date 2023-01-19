@@ -41,6 +41,6 @@ For any questions concerning the project, feel free to submit an *issue* or cont
 1. AskBCS Learning Assistant
 2. [YouTube](https://youtube.com/watch?v)
 3. [MDN-JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-
+4. [JQuery.com](https://jquery.com/)
+5. [DayJs.org](https://day.js.org/docs/en/display/format)
 
